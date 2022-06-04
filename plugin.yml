@@ -1,0 +1,6 @@
+name: AntiAfk
+version: 1.0
+main: afk\Loader
+api: 4.0.0
+author: TheOriginDeveloppement
+website: https://github.com/TheOriginDeveloppement
